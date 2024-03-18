@@ -1,0 +1,22 @@
+body {
+  font-family: "Inter",sans-serif;
+  text-align: center;
+  background-color: #0f172a;
+  color: #f8fafc;
+}
+
+.input-wrapper {
+  margin: 20px 0px;
+}
+
+.button-wrapper {
+  margin: 20px 0px;
+}
+
+#check-btn {
+  background-color: #3730a3;
+  border: none;
+  padding: 5px;
+  font-family: "Inter",sans-serif;
+  color: #f8fafc;
+}
